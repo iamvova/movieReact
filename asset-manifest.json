@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieReact/static/css/main.44b52035.css",
+    "main.js": "/movieReact/static/js/main.fad2baa1.js",
+    "index.html": "/movieReact/index.html",
+    "main.44b52035.css.map": "/movieReact/static/css/main.44b52035.css.map",
+    "main.fad2baa1.js.map": "/movieReact/static/js/main.fad2baa1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b52035.css",
+    "static/js/main.fad2baa1.js"
+  ]
+}
